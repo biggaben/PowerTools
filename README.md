@@ -40,6 +40,7 @@ To install PowerTools, download the `Microsoft.PowerShell_profile.ps1` file and 
 To use a command, simply type the command or its alias in the PowerShell prompt, followed by any necessary arguments or options. For example:
 ```powershell
 SniffSearch -firstParam 2 -secondParam "*.txt"
+```
 
 ## Important Note
 Before using any commands, it's crucial to understand their functionality and arguments to avoid unintended actions. Always refer to the most recent version of the PowerTools documentation for accurate information.
